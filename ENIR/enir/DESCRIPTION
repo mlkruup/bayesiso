@@ -1,0 +1,11 @@
+Package: enir
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2016-12-13
+Author: Mahdi Pakdaman Naeini
+Maintainer: Mahdi Pakdaman Naeini <pakdaman@gmail.com>
+Description: This code implements the ENIR calibration code presentated in our ICDM paper Entilted by ""
+License: feel free to use the code for your research, there is no
+        gaurantee of any kind of using this code!
+Packaged: 2017-02-27 01:30:17 UTC; mahdi
